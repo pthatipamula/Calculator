@@ -21,7 +21,7 @@ The calculator supports basic arithmetic operations including addition, subtract
 
 ---
 
-## Technologies Used
+## Programming Used
 
 - **HTML:** Structure of the calculator UI
 - **CSS:** Styling and responsive design

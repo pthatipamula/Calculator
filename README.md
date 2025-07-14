@@ -2,7 +2,7 @@
 Simple web calculator built with HTML, CSS, and JS for AICTE OIB-SIP Internship.
 # Web Calculator Project
 
-This project is a simple, responsive web-based calculator developed using **HTML**, **CSS**, and **JavaScript**. It is created as part of the **AICTE OIB-SIP June 2025 Internship** under the **Web Development & Design** domain (Level 1 project).
+This project is a simple, responsive web-based calculator developed using **HTML**, **CSS**, and **JavaScript**. It is created as part of the **AICTE OIB-SIP June 2025 Internship** under the **Web Development & Design** domain (Level 2 project).
 
 ---
 
